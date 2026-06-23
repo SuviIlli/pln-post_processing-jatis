@@ -1,0 +1,6 @@
+numpy
+matplotlib
+hcipy
+scipy
+astropy
+seaborn
