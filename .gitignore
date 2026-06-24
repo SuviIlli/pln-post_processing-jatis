@@ -1,5 +1,2 @@
-data/coron/
-data/coron_test/
+data
 temp
-data/many_pln_star_ab_high_correlation_wide_angle.npy
-data/pln_psf_star_ab_cube.npy
