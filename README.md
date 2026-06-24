@@ -5,4 +5,4 @@ The main directory contains the Jupyter notebook, `pln_post_processioing.ipynb`,
 
 <h1> Regarding the Simulated Data and the Localization Results </h1>
 
-These data files are required to fully run through the `pln_post_processioing.ipynb` notebook, but since most of them exceed the Github file size for allowed commits, they can be found on the Zenodo release of this repository here : 
+There are simulated data files, and dataset localization results, that are required to fully run through the `pln_post_processioing.ipynb` notebook, but since most of them exceed the Github file size for allowed commits, they can be found on the Zenodo release of this repository here : 
